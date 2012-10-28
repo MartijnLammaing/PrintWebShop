@@ -5,8 +5,10 @@ using System.Text;
 
 namespace PrintWebShop.Data
 {
-    class TestClass
+    public class TestClass
     {
+        public string Id { get; set; }
+
         public string TestProperty { get; set; }
     }
 }

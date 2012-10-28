@@ -1,9 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
+using PrintWebShop.Data.DatabaseConfigurations;
+using PrintWebShop.Migrations;
 
 namespace PrintWebShop
 {
@@ -31,6 +34,8 @@ namespace PrintWebShop
 
         protected void Application_Start()
         {
+            Database.SetInitializer(new MigrateDatabaseToLatestVersion<TestContext, Configuration>());
+
             AreaRegistration.RegisterAllAreas();
 
             RegisterGlobalFilters(GlobalFilters.Filters);
