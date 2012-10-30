@@ -10,5 +10,7 @@ namespace PrintWebShop.Data
         public string Id { get; set; }
 
         public string TestProperty { get; set; }
+
+        public int TestInteger { get; set; }
     }
 }
