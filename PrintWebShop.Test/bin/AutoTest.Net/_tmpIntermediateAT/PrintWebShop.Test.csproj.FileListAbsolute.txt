@@ -1,0 +1,7 @@
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\AutoTest.Net\_tmpIntermediateAT\PrintWebShop.Test.dll
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\AutoTest.Net\_tmpIntermediateAT\PrintWebShop.Test.pdb
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\AutoTest.Net\PrintWebShop.Test.dll
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\AutoTest.Net\PrintWebShop.Test.pdb
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\AutoTest.Net\nunit.framework.dll
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\AutoTest.Net\nunit.framework.xml

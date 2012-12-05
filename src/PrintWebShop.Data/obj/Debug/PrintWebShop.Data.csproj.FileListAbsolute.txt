@@ -1,9 +1,13 @@
 C:\Development\PrintWebShop\src\PrintWebShop.Data\bin\Debug\PrintWebShop.Data.dll.config
 C:\Development\PrintWebShop\src\PrintWebShop.Data\bin\Debug\PrintWebShop.Data.dll
 C:\Development\PrintWebShop\src\PrintWebShop.Data\bin\Debug\PrintWebShop.Data.pdb
+C:\Development\PrintWebShop\src\PrintWebShop.Data\bin\Debug\DynamicData.EFCodeFirstProvider.dll
 C:\Development\PrintWebShop\src\PrintWebShop.Data\bin\Debug\EntityFramework.dll
 C:\Development\PrintWebShop\src\PrintWebShop.Data\bin\Debug\EntityFramework.xml
 C:\Development\PrintWebShop\src\PrintWebShop.Data\obj\Debug\ResolveAssemblyReference.cache
 C:\Development\PrintWebShop\src\PrintWebShop.Data\obj\Debug\PrintWebShop.Data.dll
 C:\Development\PrintWebShop\src\PrintWebShop.Data\obj\Debug\PrintWebShop.Data.pdb
-C:\Development\PrintWebShop\src\PrintWebShop.Data\bin\Debug\DynamicData.EFCodeFirstProvider.dll
+C:\Development\PrintWebShop\src\PrintWebShop.Data\bin\Debug\Autofac.Configuration.dll
+C:\Development\PrintWebShop\src\PrintWebShop.Data\bin\Debug\Autofac.dll
+C:\Development\PrintWebShop\src\PrintWebShop.Data\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Development\PrintWebShop\src\PrintWebShop.Data\bin\Debug\Autofac.xml

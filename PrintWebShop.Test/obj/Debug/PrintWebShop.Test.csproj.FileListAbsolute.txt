@@ -1,0 +1,16 @@
+C:\Development\PrintWebShop\PrintWebShop.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\Debug\PrintWebShop.Test.dll
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\Debug\PrintWebShop.Test.pdb
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\Debug\nunit.framework.dll
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\Debug\PrintWebShop.Data.dll
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\Debug\PrintWebShop.dll
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\Debug\EntityFramework.dll
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\Debug\Autofac.dll
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\Debug\PrintWebShop.Data.pdb
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\Debug\PrintWebShop.pdb
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\Debug\nunit.framework.xml
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\Debug\EntityFramework.xml
+C:\Development\PrintWebShop\PrintWebShop.Test\bin\Debug\Autofac.xml
+C:\Development\PrintWebShop\PrintWebShop.Test\obj\Debug\PrintWebShop.Test.dll
+C:\Development\PrintWebShop\PrintWebShop.Test\obj\Debug\PrintWebShop.Test.pdb

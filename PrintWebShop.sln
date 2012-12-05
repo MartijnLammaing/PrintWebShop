@@ -5,7 +5,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintWebShop.Web", "src\Pri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintWebShop.Data", "src\PrintWebShop.Data\PrintWebShop.Data.csproj", "{76D26B4B-4385-4291-87BD-307D08724ED1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintWebShop.Test", "PrintWebShop.Test\PrintWebShop.Test.csproj", "{226C54D7-2B08-49AE-AF9D-FA23151DBAB6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A31B88A-8BC9-494A-92AA-37076D8D6B29}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		PrintWebShop.vsmdi = PrintWebShop.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
 Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = PrintWebShop.vsmdi
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -19,6 +31,10 @@ Global
 		{76D26B4B-4385-4291-87BD-307D08724ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76D26B4B-4385-4291-87BD-307D08724ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76D26B4B-4385-4291-87BD-307D08724ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226C54D7-2B08-49AE-AF9D-FA23151DBAB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226C54D7-2B08-49AE-AF9D-FA23151DBAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226C54D7-2B08-49AE-AF9D-FA23151DBAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226C54D7-2B08-49AE-AF9D-FA23151DBAB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

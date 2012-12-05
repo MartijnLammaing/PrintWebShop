@@ -1,4 +1,5 @@
 <Modules>
   <Module PersistentId="76D26B4B-4385-4291-87BD-307D08724ED1" ModuleId="PrintWebShop.Data" />
   <Module PersistentId="810B2DA7-F9BC-4045-A4A2-26CDD2DBE98D" ModuleId="PrintWebShop.Web" />
+  <Module PersistentId="226C54D7-2B08-49AE-AF9D-FA23151DBAB6" ModuleId="PrintWebShop.Test" />
 </Modules>

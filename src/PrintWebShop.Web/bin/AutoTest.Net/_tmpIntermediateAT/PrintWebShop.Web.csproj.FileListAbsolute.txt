@@ -1,0 +1,10 @@
+C:\Development\PrintWebShop\src\PrintWebShop.Web\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+C:\Development\PrintWebShop\src\PrintWebShop.Web\bin\AutoTest.Net\_tmpIntermediateAT\PrintWebShop.dll
+C:\Development\PrintWebShop\src\PrintWebShop.Web\bin\AutoTest.Net\_tmpIntermediateAT\PrintWebShop.pdb
+C:\Development\PrintWebShop\src\PrintWebShop.Web\bin\AutoTest.Net\PrintWebShop.dll
+C:\Development\PrintWebShop\src\PrintWebShop.Web\bin\AutoTest.Net\PrintWebShop.pdb
+C:\Development\PrintWebShop\src\PrintWebShop.Web\bin\AutoTest.Net\DynamicData.EFCodeFirstProvider.dll
+C:\Development\PrintWebShop\src\PrintWebShop.Web\bin\AutoTest.Net\EntityFramework.dll
+C:\Development\PrintWebShop\src\PrintWebShop.Web\bin\AutoTest.Net\PrintWebShop.Data.dll
+C:\Development\PrintWebShop\src\PrintWebShop.Web\bin\AutoTest.Net\PrintWebShop.Data.pdb
+C:\Development\PrintWebShop\src\PrintWebShop.Web\bin\AutoTest.Net\EntityFramework.xml

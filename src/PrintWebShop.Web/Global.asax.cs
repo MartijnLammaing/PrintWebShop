@@ -2,11 +2,14 @@
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
+using System.Reflection;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 using PrintWebShop.Data.DatabaseConfigurations;
 using PrintWebShop.Migrations;
+using Autofac;
+using Autofac.Integration.Mvc;
 
 namespace PrintWebShop
 {
@@ -35,6 +38,12 @@ namespace PrintWebShop
         protected void Application_Start()
         {
             Database.SetInitializer(new MigrateDatabaseToLatestVersion<TestContext, Configuration>());
+
+            var builder = new ContainerBuilder();
+            builder.RegisterControllers(Assembly.GetExecutingAssembly());
+            builder.RegisterAssemblyTypes(Assembly.GetExecutingAssembly()).AsImplementedInterfaces();
+            var container = builder.Build();
+            DependencyResolver.SetResolver(new AutofacDependencyResolver(container));
 
             AreaRegistration.RegisterAllAreas();
 
